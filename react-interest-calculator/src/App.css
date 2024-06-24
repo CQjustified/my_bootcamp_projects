@@ -1,0 +1,21 @@
+#userRate, #bankFee {
+    display: block;
+    margin-top: 10px;
+}
+
+#buttonRate, #buttonFee {
+    display: inline;
+    margin-top: 10px;
+}
+#buttonFee {
+    margin-bottom: 10px;
+}
+
+.App {
+    background: aliceblue;
+    width: 30%;
+}
+
+.Deposit, .Withdraw {
+    display: inline;
+}
