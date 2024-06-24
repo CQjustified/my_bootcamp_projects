@@ -10,6 +10,12 @@ Here you will find some of the tasks I completed as part of the Full Stack Web D
 - External libraries were also integrated for styling purposes.
 - Note: single-webpage creation only, therefore limited interactivity (i.e. links, hover-over).
 
+## REACT Local State Management and Events - react-interest-calculator
+- The aim of this task was to create an interest calculator web page with React and JSX, simulating
+  a fictional banking app that allows the user to deposit, withdraw and calculate fees or interest.
+- The task focus was on implementing shared state between two separate components and then lifting to a parent component.
+- Note: App focus on functionalities rather than design.
+
 #### Follow these instructions for the REACT application 🚦:
 
 1. **Save the React folder** to your local machine and navigate to the root folder of the REACT app.
